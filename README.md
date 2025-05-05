@@ -3,6 +3,10 @@
 A beautifully crafted **Tic Tac Toe** game built with **Vite + React**. Challenge your friends, test your skills against a smart bot, and explore game history with time travel!
 
 ---
+## Live Demo
+- https://tic-tac-toe-iota-two-74.vercel.app/
+
+---
 
 ## 🚀 Features
 
