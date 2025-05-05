@@ -1,12 +1,37 @@
-# React + Vite
+# 🎮 Tic Tac Toe Game App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully crafted **Tic Tac Toe** game built with **Vite + React**. Challenge your friends, test your skills against a smart bot, and explore game history with time travel!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🧠 **Play with Bot** – Battle against a basic AI (Using Math.random() for random box selection).
+- 👨‍👩‍👧 **Play with Friends (Local Multiplayer)** – Two-player mode on the same device.
+- 🕓 **Time Travel** – Rewind to any past move and relive the game.
+- 🤝 **Draw Detection** – If no winner, the game ends in a fair draw.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React
+- **Styling**: Tailwind CSS
+- **State Management**: React Hooks
+
+---
+
+## 🔧 Installation & Running Locally
+
+```bash
+# Clone the repository
+https://github.com/shahinhossen/tic-tac-toe.git
+
+# Navigate into the project folder
+cd tic-tac-toe
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
